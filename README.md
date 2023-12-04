@@ -1,3 +1,6 @@
+Hello, I'm Nick
+It's my Discord aureliasacchi.
+
 <!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
